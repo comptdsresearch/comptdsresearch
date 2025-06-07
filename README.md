@@ -1,6 +1,7 @@
-# 💫 About Me:
-Kami adalah Tim Riset Komputasi dan Sains Data (ComptdsResearch), bagian dari Program Studi S1-Statistika, Fakultas Sains dan Teknologi Pertanian, Universitas Muhammadiyah Semarang. Fokus kami adalah pada pengembangan riset dan inovasi berbasis komputasi statistika, machine learning, dan sains data terapan.<br><br>Dengan semangat kolaborasi dan keilmuan, kami berkomitmen untuk menjawab tantangan data di berbagai sektor, mulai dari pertanian, kesehatan, lingkungan, hingga industri berbasis teknologi. Melalui pendekatan analitis, eksperimental, dan berbasis data, kami berupaya menciptakan solusi yang berdampak nyata.<br><br>📊 Riset kami, solusi untuk masa depan berbasis data.
 
+# 💫 Computational and Data Science Research Team
+
+Kami adalah Tim Riset Komputasi dan Sains Data (ComptdsResearch), bagian dari Program Studi S1-Statistika, Fakultas Sains dan Teknologi Pertanian, Universitas Muhammadiyah Semarang. Fokus kami adalah pada pengembangan riset dan inovasi berbasis komputasi statistika, machine learning, dan sains data terapan.<br><br>Dengan semangat kolaborasi dan keilmuan, kami berkomitmen untuk menjawab tantangan data di berbagai sektor, mulai dari pertanian, kesehatan, lingkungan, hingga industri berbasis teknologi. Melalui pendekatan analitis, eksperimental, dan berbasis data, kami berupaya menciptakan solusi yang berdampak nyata.<br><br>📊 Riset kami, solusi untuk masa depan berbasis data.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/comptds_research) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:labrisetkomp.sd@gmail.com) 
